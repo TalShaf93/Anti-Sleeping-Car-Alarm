@@ -1,0 +1,20 @@
+Anti Car Sleeping Alarm - computer Engineering - Final Project
+Authors:
+	Tal Shafir
+	Niri Drory
+Date: 30/8/2021
+
+Files Description:
+
+Features Extraction Folder-
+1. features.csv - first features extraction from the collected data.
+2. labels.csv - assigned lables per image.
+3. merge.csv - complete dataset with features and lables.
+4. ml.py - feature extraction script.
+5. label_image.py - data labeling script.
+6. merge_example_label.py - final merging and process dataset.
+
+App Folder - 
+main.py - API setup and app functionality.
+lib.py - Model training and classification.
+App.js - react native Expo app.
